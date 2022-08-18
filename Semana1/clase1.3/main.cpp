@@ -65,8 +65,8 @@ int main(int argc, char** argv) {
      }
      #endif
       
-     La forma de invocarlas cambia, debemos indicar el espacio de nombres al que
-     pertenecen.
+     La forma de invocarlas y desarrollarlas cambia, debemos indicar el espacio 
+     de nombres al que pertenecen.
      #include "FuncionesMatematicas.h" (escribirlo es necesario) 
      
      int MiEspacio::factorial(int n){
