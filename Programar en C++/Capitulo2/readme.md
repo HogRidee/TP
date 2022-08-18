@@ -2,11 +2,10 @@
 # Sección 2.2 Su primer programa en C++: imprimir una línea de texto
 •	 Los comentarios de una sola línea (pág. 40) comienzan con //. Insertamos comentarios para documentar los
    programas y mejorar su legibilidad.  <br />
-•	 Los comentarios no provocan que la computadora realice ninguna acción (pág. 41) cuando se ejecuta el programa: el compilador los ignora y no provocan que se genere ningún código objeto en lenguaje máquina.
+•	 Los comentarios no provocan que la computadora realice ninguna acción (pág. 41) cuando se ejecuta el programa: el compilador los ignora y no provocan que se genere ningún código objeto en lenguaje máquina. <br />
 •	 Una directiva de preprocesamiento (pág. 40) comienza con # y es un mensaje para el preprocesador de C++. Las
-   directivas de preprocesamiento se procesan antes de que se compile el programa. <br />
-•	 La línea #include <iostream> (pág. 40) indica al preprocesador de C++ que debe incluir el contenido del encabezado del flujo de entrada/salida, que contiene la información necesaria para compilar programas que usen
-   std::cin (pág. 46) y std::cout (pág. 41) junto con los operadores de inserción de flujo (<<, pág. 42) y de extracción de flujo (>>, pág. 46).
+   directivas de preprocesamiento se procesan antes de que se compile el programa. <br /> 
+•	 La línea #include <iostream> (pág. 40) indica al preprocesador de C++ que debe incluir el contenido del encabezado del flujo de entrada/salida, que contiene la información necesaria para compilar programas que usen std::cin (pág. 46) y std::cout (pág. 41) junto con los operadores de inserción de flujo (<<, pág. 42) y de extracción de flujo (>>, pág. 46).
 •	 El espacio en blanco (es decir líneas en blanco, caracteres de espacio y caracteres de tabulación, pág. 40) hace
    que los programas sean más fáciles de leer. El compilador ignora los caracteres de espacio en blanco que se encuentran fuera de las literales de cadena.
 •	 Los programas en C++ empiezan a ejecutarse en main (pág. 41), incluso aunque main no aparezca primero en el
