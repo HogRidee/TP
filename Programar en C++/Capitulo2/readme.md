@@ -1,7 +1,7 @@
 ## Resumen
 # Sección 2.2 Su primer programa en C++: imprimir una línea de texto
 •	 Los comentarios de una sola línea (pág. 40) comienzan con //. Insertamos comentarios para documentar los
-   programas y mejorar su legibilidad.
+   programas y mejorar su legibilidad.  
 •	 Los comentarios no provocan que la computadora realice ninguna acción (pág. 41) cuando se ejecuta el programa: el compilador los ignora y no provocan que se genere ningún código objeto en lenguaje máquina.
 •	 Una directiva de preprocesamiento (pág. 40) comienza con # y es un mensaje para el preprocesador de C++. Las
    directivas de preprocesamiento se procesan antes de que se compile el programa.
