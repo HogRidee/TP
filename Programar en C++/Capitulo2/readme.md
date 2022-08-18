@@ -4,7 +4,7 @@
    programas y mejorar su legibilidad.  
 •	 Los comentarios no provocan que la computadora realice ninguna acción (pág. 41) cuando se ejecuta el programa: el compilador los ignora y no provocan que se genere ningún código objeto en lenguaje máquina.
 •	 Una directiva de preprocesamiento (pág. 40) comienza con # y es un mensaje para el preprocesador de C++. Las
-   directivas de preprocesamiento se procesan antes de que se compile el programa.
+   directivas de preprocesamiento se procesan antes de que se compile el programa. <br />
 •	 La línea #include <iostream> (pág. 40) indica al preprocesador de C++ que debe incluir el contenido del encabezado del flujo de entrada/salida, que contiene la información necesaria para compilar programas que usen
    std::cin (pág. 46) y std::cout (pág. 41) junto con los operadores de inserción de flujo (<<, pág. 42) y de extracción de flujo (>>, pág. 46).
 •	 El espacio en blanco (es decir líneas en blanco, caracteres de espacio y caracteres de tabulación, pág. 40) hace
