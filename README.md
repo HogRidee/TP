@@ -1,6 +1,4 @@
 # TP
-1.1. Almacenamiento de datos en el computador <br/>
-2.1. Proceso de compilación de un programa <br />
-2.2. Diferencias entre C y C++ <br />
-3.1. Conceptos básicos en la elaboración de un programa (parte 1) <br/>
-3.2. Conceptos básicos en la elaboración de un programa (parte 2) <br/>
+1. Almacenamiento de Datos en el Computador (semana1) <br/>
+2. Proceso de compilación de un programa (semana1) <br/>
+3. Conceptos básicos (semana2) <br/>
