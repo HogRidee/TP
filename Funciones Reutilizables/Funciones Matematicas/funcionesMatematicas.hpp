@@ -21,6 +21,7 @@ void restar(double, double, double, double, double &, double &);
 void multiplicar(double, double, double, double, double &, double &);
 void dividir(double, double, double, double, double &, double &, double &);
 void potenciar(double, double, int, double &, double &);
+int esNumeroPerfecto(int );
 
 #endif /* FUNCIONESMATEMÁTICAS_H */
 
