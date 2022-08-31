@@ -127,4 +127,14 @@ void potenciar(double a, double b, int n, double &real, double &imaginario){
         imaginario = 0;
     }
 }
-
+//Comprobar si n es número perfecto
+int esNumeroPerfecto (int n){
+    int sum = 1;
+    for (int i = 2; i <= n/2; i++){
+        if(n % i == 0){
+            sum = sum + i;
+        }
+    }
+    if (sum == n) return 1;
+    return 0;
+}
