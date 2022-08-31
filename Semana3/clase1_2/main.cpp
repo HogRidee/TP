@@ -13,27 +13,26 @@ using namespace std;
 
 /*
  * Este programa contiene un ejercicio desarrollado en clase
+ * Se necesita crear un archivo
  */
 int main(int argc, char** argv) {
     
-    int code, age, year;
-    char isProfessor;
-    
-    cin  >> code;
-    cout << code << endl;
-    
     //cin.eof
     //objeto.método
-    //para verificar condicion de parada: 
+    //para verificar condicion de parada: cin.eof()
+    int code, age, year;
+    char isProfessor;
+    int selectedCode;
     while(1){
         cin >> code >> age >> year >> isProfessor;
         if (cin.eof()) break;
-        cout << code << endl
-        cout << age << endl
-        cout << year << endl
-        cout << isProfessor << endl
+        cout << code << endl;
+        cout << age << endl;
+        cout << year << endl;
+        cout << isProfessor << endl;
+        if (isProfessor == 'T') selectedCode = code;
     }
+    cout << "The professor is : " << selectedCode << endl;
     
     return 0;
 }
-
