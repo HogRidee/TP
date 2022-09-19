@@ -1,0 +1,36 @@
+                    INFORME DE PRECIPITACIONES
+ESTACION No. 1
+
+Nombre: OFICINA CENTRAL DE CORREOS
+Ciudad: HUAROCHIRI
+Region: LIMA
+
+    Fecha    Tiempo llovido    Cantidad llovida
+ 03/02/2020    02:27:21            127.88
+ 15/03/2020    02:54:52             90.57
+ 10/04/2020    01:48:11             87.12
+
+RESUMEN:
+    Fecha incial: 15/03/2020    Fecha final: 10/04/2020
+    Cantidad de dias registrados:           3
+    Tiempo total de lluvia:           07:10:24 horas
+    Total llovido en el periodo:      305.56 mm
+    En la fecha 03/02/2020 se obtuvo la mayor precipitacion, con 127.88 mm
+
+ESTACION No. 2
+
+Nombre: LOCAL MUNICIPAL
+Ciudad: PUERTO MALDONADO
+Region: MADRE DE DIOS
+
+    Fecha    Tiempo llovido    Cantidad llovida
+ 11/05/2020    02:00:00             91.52
+ 12/05/2020    01:49:19            150.23
+
+RESUMEN:
+    Fecha incial: 12/05/2020    Fecha final: 11/05/2020
+    Cantidad de dias registrados:           2
+    Tiempo total de lluvia:           03:49:19 horas
+    Total llovido en el periodo:      241.75 mm
+    En la fecha 12/05/2020 se obtuvo la mayor precipitacion, con 150.23 mm
+
