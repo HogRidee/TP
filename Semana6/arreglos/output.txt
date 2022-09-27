@@ -1,0 +1,14 @@
+Elemento 1 del arreglo: 4
+Codigo: 5
+Telefono: 6
+Edad: 8
+Valor Entero: 1 Valor Double: 3.5 Valor Char: X Valor Char: Verdadero
+Valor Entero: 2 Valor Double: 2.6 Valor Char: X Valor Char: Falso
+Valor Entero: 3 Valor Double: 1.8 Valor Char: X Valor Char: Verdadero
+Valor Entero: 4 Valor Double: 9 Valor Char: Y Valor Char: Falso
+Valor Entero: 5 Valor Double: 4.6 Valor Char: Z Valor Char: Verdadero
+Valor Entero: 6 Valor Double: 2.4 Valor Char: Z Valor Char: Falso
+Valor Entero: 7 Valor Double: 1.3 Valor Char: Y Valor Char: Verdadero
+Valor Entero: 8 Valor Double: 11.2 Valor Char: Y Valor Char: Falso
+Valor Entero: 9 Valor Double: 12.1 Valor Char: X Valor Char: Falso
+Valor Entero: 10 Valor Double: 0.5 Valor Char: Z Valor Char: Falso
