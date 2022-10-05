@@ -1,0 +1,10 @@
+Valor Entero: 111 Valor Double: 3.5 Valor Char: X Valor Char: Verdadero
+Valor Entero: 222 Valor Double: 2.6 Valor Char: X Valor Char: Falso
+Valor Entero: 333 Valor Double: 1.8 Valor Char: X Valor Char: Verdadero
+Valor Entero: 444 Valor Double: 9 Valor Char: Y Valor Char: Falso
+Valor Entero: 555 Valor Double: 4.6 Valor Char: Z Valor Char: Verdadero
+Valor Entero: 666 Valor Double: 2.4 Valor Char: Z Valor Char: Falso
+Valor Entero: 777 Valor Double: 1.3 Valor Char: Y Valor Char: Verdadero
+Valor Entero: 888 Valor Double: 11.2 Valor Char: Y Valor Char: Falso
+Valor Entero: 999 Valor Double: 12.1 Valor Char: X Valor Char: Falso
+Valor Entero: 101010 Valor Double: 0.5 Valor Char: Z Valor Char: Falso
