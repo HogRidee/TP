@@ -1,0 +1,19 @@
+                             Resumen de Pagos
+============================================================================
+1)Fecha de Pago: 22/03/2022
+Nombre Profesor                        Sueldo        #Cursos      #Creditos
+GOMEZ_MONTOYA_HECTOR_ERASMO            6050.01         5             24
+GOMEZ_MONTOYA_HECTOR_ERASMO            5500.27         5             24
+ALARCON_CUBAS_CYNDI_MILENE              2640.4         4             16
+ALARCON_CUBAS_CYNDI_MILENE             6929.86         2              8
+Resumen: Sueldo en la fecha - 21120.5
+         Sueldos incrementados - 4
+2)Fecha de Pago: 27/04/2022
+Nombre Profesor                        Sueldo        #Cursos      #Creditos
+GUZMAN_MONCADA_MARCIA_LUCERO           3500.12         1              5
+Resumen: Sueldo en la fecha - 3500.12
+         Sueldos incrementados - 0
+============================================================================
+Resumen
+Fecha con mayor numero de Profesores: 22/03/2022
+Profesor con mayor sueldo: ALARCON_CUBAS_CYNDI_MILENE
