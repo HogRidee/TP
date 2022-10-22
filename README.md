@@ -4,6 +4,5 @@
 3. Conceptos básicos (semana2) <br/>
 4. Ingreso y salida de datos (semana2, semana3) <br/>
 5. Programación modular (semana4) <br/>
-6. Aplicaciones con arreglos y punteros (semana5, semana6, semana7, semana8) <br/>
-7. Busqueda Binaria (semana10) <br/>
-8. Cadena de caracteres (semana10) <br/>
+6. Aplicaciones con arreglos y punteros (semana5, semana6, semana7, semana8, semana10) <br/>
+7. Cadena de caracteres (semana10) <br/>
