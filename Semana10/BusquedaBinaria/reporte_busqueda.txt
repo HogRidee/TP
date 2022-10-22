@@ -1,0 +1,5 @@
+Los datos almacenados para la fecha buscada son los siguientes:
+Fecha de pago: 10/10/2022
+Cantidad de Profesores pagados :        11
+Horas pagadas :        47
+Sueldos pagados :   2537.42
