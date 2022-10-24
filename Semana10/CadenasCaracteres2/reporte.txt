@@ -1,0 +1,60 @@
+================================================================================
+Artista =                          Britney_Spears
+Artista Mayusculas =               BRITNEY_SPEARS
+Cancion =                          Oops!...I_Did_It_Again
+Cantidad Caracteres =              22        
+Cantidad Caracteres CSTRING=       22        
+Duracion =                         3.52 min
+Explicito? =                       FALSE     
+Fecha de Lanzamiento =             2000      
+Danceability =                     75.10%
+Energy =                           83.40%
+Genero =                           pop       
+Genero Copiado =                   pop       
+Genero Copiado CSTRING =           pop       
+================================================================================
+================================================================================
+Artista =                          blink_182 
+Artista Mayusculas =               BLINK_182 
+Cancion =                          All_The_Small_Things
+Cantidad Caracteres =              20        
+Cantidad Caracteres CSTRING=       20        
+Duracion =                         2.78 min
+Explicito? =                       FALSE     
+Fecha de Lanzamiento =             1999      
+Danceability =                     43.40%
+Energy =                           89.70%
+Genero =                           rock,pop  
+Genero Copiado =                   rock,pop  
+Genero Copiado CSTRING =           rock,pop  
+================================================================================
+================================================================================
+Artista =                          Faith_Hill
+Artista Mayusculas =               FAITH_HILL
+Cancion =                          Breathe   
+Cantidad Caracteres =              7         
+Cantidad Caracteres CSTRING=       7         
+Duracion =                         4.18 min
+Explicito? =                       FALSE     
+Fecha de Lanzamiento =             1999      
+Danceability =                     52.90%
+Energy =                           49.60%
+Genero =                           pop,country
+Genero Copiado =                   pop,country
+Genero Copiado CSTRING =           pop,country
+================================================================================
+================================================================================
+Artista =                          Bon_Jovi  
+Artista Mayusculas =               BON_JOVI  
+Cancion =                          It's_My_Life
+Cantidad Caracteres =              12        
+Cantidad Caracteres CSTRING=       12        
+Duracion =                         3.74 min
+Explicito? =                       FALSE     
+Fecha de Lanzamiento =             2000      
+Danceability =                     55.10%
+Energy =                           91.30%
+Genero =                           rock,metal
+Genero Copiado =                   rock,metal
+Genero Copiado CSTRING =           rock,metal
+================================================================================
