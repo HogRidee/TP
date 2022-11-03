@@ -1,0 +1,18 @@
+                                       LISTADO DE COMENTARIOS
+=====================================================================================================
+Fecha          Usuario             Pais                   Comentario          Cantidad de likes   
+-----------------------------------------------------------------------------------------------------
+08/06/2022     @miguel             Argentina           primero                          66
+16/03/2022     @silvia             Argentina           x2                             4000
+16/03/2022     @alexandra          Peru                yo haria lo mismo                20
+16/03/2022     @axel               Peru                soy yo jajaja                   500
+27/05/2022     @erasmo             Peru                que feo video !               25000
+16/03/2022     @erasmo             Peru                si soy                          128
+16/03/2022     @miguel             Peru                que buen Tiktok !              3253
+27/05/2022     @ivan               Uruguay             depende de la situacion         321
+08/06/2022     @miguel             Uruguay             jajaja                           47
+=====================================================================================================
+CANTIDAD DE COMENTARIOS:  9
+CANTIDAD TOTAL DE LIKES:  33335
+CANTIDAD DE USUARIOS:  6
+=====================================================================================================
