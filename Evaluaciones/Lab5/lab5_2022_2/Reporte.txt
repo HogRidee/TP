@@ -1,0 +1,66 @@
+                                                             Universidad TP
+======================================================================================================================================================================
+RECAUDACION POR MATRICULAS:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CODIGO              NOMBRE                        DISTRITO                      ESPECIALIDAD                  FACULTAD       ESCALA    VCRED     CREDMAT   PAGO      
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20142581  VIRGINIA IRMA BENAVENTE AYALA           Santiago de Surco             Ing. Civil                    EEGGCC           7       756.61    129.20  97754.01
+20186584  GUILLERMO EDRIC CABRERA CANALES         Santa Rosa                    Ing. Mecanica                 EEGGCC           1       375.25    117.00  43904.25
+20165527  JAVIER DANIEL AURIS ZIMIC               Santa Rosa                    Ing. Informatica              FCI              2       412.78    102.80  42433.78
+20159566  ADOLFO LANDEO SUELDO                    Santa Rosa                    Ing. Mecanica                 FCI              2       412.78    135.70  56014.25
+20185658  CHRISTIAN PAREDES PATINO                Santa Rosa                    Ing. Civil                    FCI              7       756.61     78.30  59242.56
+20174691  MILENA JENNY MEDINA VELASQUEZ           Santa Anita                   Ing. Civil                    EEGGCC           4       569.63    101.30  57703.52
+20157718  JOHANA GLORIA PORTUGAL BENAVENTE        San Miguel                    Ing. Mecanica                 FCI              3       474.69     82.20  39019.52
+20136567  VALENTINA ROCIO AQUINO TORO             San Juan de Miraflores        Ing. Mecanica                 FCI              2       412.78    114.40  47222.03
+20136260  ERICKA VICTORIA JUSTINO FORZANI         San Isidro                    Ing. Mecanica                 EEGGCC           2       412.78     85.60  35333.97
+20181657  MARTHA LOZADA YINO                      Pueblo Libre                  Ing. Civil                    FCI              4       569.63    121.80  69380.93
+20167100  SANDRO CARO POLO                        Lince                         Ing. Civil                    FCI              1       375.25    134.20  50358.55
+20172513  MADELEINE YLIANA MIYAKE MEREL           Lince                         Ing. Mecanica                 FCI              7       756.61    135.60 102596.32
+20132464  TATIANA NANCY VILLA YALLICO             Jesus Maria                   Ing. Mecanica                 FCI              4       569.63     36.10  20563.64
+20161923  ALEX MARTIN VASQUEZ PAZ                 Jesus Maria                   Ing. Civil                    FCI              4       569.63     62.00  35317.06
+20176213  BEATRIZ HENRIQUEZ ESPINO                Independencia                 Ing. Civil                    FCI              3       474.69     87.40  41487.91
+20183699  MELVIN HENRRY LAURA WONG                El Agustino                   Ing. Civil                    EEGGCC           3       474.69     73.70  34984.65
+20148472  EDGARD HENRY VELASQUEZ HUAYANAY         Cieneguilla                   Ing. Civil                    FCI              3       474.69     39.40  18702.79
+20176296  MARTIN CERNA DURAND                     Cieneguilla                   Ing. Civil                    EEGGCC           7       756.61     61.40  46455.85
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Total de ingresos por matriculas: 750992.03
+======================================================================================================================================================================
+PAGO A LOS DOCENTES:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CODIGO              NOMBRE                        DISTRITO                 CATEGORIA           DEDICACION          SECCION             GRADO               PAGOS     
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+65219371  VIRGINIA IRMA BENAVENTE AYALA           Comas                    Principal           TPA                 Derecho civil       Doctor           79496.80
+55601258  GUILLERMO EDRIC CABRERA CANALES         Pueblo Libre             Contratado          TC                  Derecho penal       Licenciado       90301.04
+84760357  JAVIER DANIEL AURIS ZIMIC               Brena                    Contratado          TP                  Pintura             Licenciado       73239.28
+22024756  ADOLFO LANDEO SUELDO                    San Juan de Miraflores   Principal           TPA                 Escultura           Magister         73973.36
+23556171  EMILIO HERNANDEZ BARRIOS                San Miguel               Asociado            TP                  Psicologia          Magister         81294.56
+86904334  CHRISTIAN PAREDES PATINO                Barranco                 Contratado          TC                  Psicologia          Bachiller       118611.52
+83938433  MADELEINE SHIRAKAWA MIRANDA             Villa Maria del Triunfo  Principal           TC                  Derecho civil       Magister         99346.32
+65513592  SILVANA MALDONADO RAMIREZ               Ancon                    Principal           TC                  Economia            Licenciado      103606.64
+24093282  MILENA JENNY MEDINA VELASQUEZ           Lurin                    Contratado          TPA                 Derecho civil       Licenciado      102848.00
+57723687  JOHANA GLORIA PORTUGAL BENAVENTE        Surquillo                Auxiliar            TC                  Derecho penal       Doctor          103947.92
+44071559  BLANCA MILAGROS MEJIA DIAZ              Ate                      Principal           TPA                 Economia            Bachiller        80291.28
+55719949  VALENTINA ROCIO AQUINO TORO             San Isidro               Asociado            TPA                 Informatica         Magister        104096.24
+89867067  RICHARD SANDRO PEREZ FARFAN             Chaclacayo               Principal           TC                  Civil               Licenciado      136848.96
+29881074  ERICKA VICTORIA JUSTINO FORZANI         Santa Rosa               Asociado            TPA                 Psicologia          Licenciado      113841.44
+96499984  ROLANDO CASTRO SUAREZ                   Lurin                    Asociado            TC                  Economia            Licenciado       79843.76
+30326624  MARTHA LOZADA YINO                      Barranco                 Asociado            TC                  Informatica         Bachiller        89259.60
+53526607  ADRIA GLORIA RAFFO CHUNG                Santa Rosa               Principal           TC                  Mecanica            Magister        120676.40
+43630388  CESAR BRUNO PISCOYA BRAVO               San Juan de Miraflores   Principal           TP                  Derecho penal       Doctor          107094.88
+49631243  SURAMI ANNIE RAFFO ARIAS                Barranco                 Asociado            TPA                 Pintura             Licenciado      110686.80
+81199293  FIORELLA MARGOT CERNA PAIRAZAMAN        Puente Piedra            Contratado          TPA                 Derecho civil       Doctor          115553.44
+57553881  MAGALI SILVANA DIAZ ANTEZANO            San Juan de Lurigancho   Asociado            TC                  Mecanica            Licenciado      100764.16
+40927560  SANDRO CARO POLO                        San Bartolo              Asociado            TP                  Civil               Bachiller        67518.96
+37520971  MADELEINE YLIANA MIYAKE MEREL           Surquillo                Auxiliar            TPA                 Derecho civil       Bachiller       133420.56
+71705649  TATIANA NANCY VILLA YALLICO             Pachacamac               Contratado          TP                  Derecho civil       Bachiller       135875.12
+19992333  ALEX MARTIN VASQUEZ PAZ                 Ancon                    Asociado            TPA                 Pintura             Bachiller       143777.68
+27129690  SHIRLEY ISABEL CABRERA LUNA             Carabayllo               Auxiliar            TPA                 Civil               Licenciado       71419.76
+60019480  BEATRIZ HENRIQUEZ ESPINO                Pueblo Libre             Auxiliar            TC                  Derecho civil       Bachiller        83463.84
+51954821  IRMA YDALI VALVERDE FLORES              Santiago de Surco        Principal           TPA                 Derecho civil       Licenciado      143556.56
+41944138  MELVIN HENRRY LAURA WONG                Independencia            Contratado          TP                  Informatica         Licenciado      133142.40
+78078806  ROSARIO MENDOZA EGUSQUIZA               San Bartolo              Contratado          TPA                 Derecho penal       Licenciado       92197.92
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Total de egresos por sueldos: 1443181.44
+======================================================================================================================================================================
+Estado de las ganancias o perdidas-692189.41
+Recomendaciones: DEBE CERRAR LA INSTITUCION
