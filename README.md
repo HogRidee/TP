@@ -7,3 +7,4 @@
 6. Aplicaciones con arreglos y punteros (semana5, semana6, semana7, semana8, semana10) <br/>
 7. Cadenas de caracteres (semana10, semana11, semana12) <br/>
 8. Estructuras (semana12, semana13) <br/>
+9. Archivos binarios (semana13, semana14) <br/>
