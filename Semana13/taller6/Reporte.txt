@@ -1,0 +1,52 @@
+Resumen de Batalla Pokemon
+=============================================================
+Equipo A  340hp                    404hp  Equipo B
+Dewgong                            Blastoise      
+Tentacool                          Ninetales      
+Golem                              Abra           
+Kabuto                             Venomoth       
+Starmie                            Farfetch'd     
+Koffing                            Muk            
+=============================================================
+Resumen de Estadisticas Pokemon
+Equipo A
+Pokemon mas rapido: Starmie
+Pokemon mas defensivo: Golem
+Pokemon mas ofensivo: Golem
+Lista de ataques del pokemon mas lento: Koffing
+tackle         thunderbolt    thunder        toxic          rage           mimic          double-team    
+smokescreen    haze           bide           self-destruct  smog           sludge         
+fire-blast     explosion      rest           substitute     psybeam        screech        
+poison-gas     psywave        thief          snore          curse          protect        
+sludge-bomb    zap-cannon     destiny-bond   endure         rollout        swagger        
+attract        sleep-talk     return         frustration    pain-split     hidden-power   
+sunny-day      flamethrower   flash          rain-dance     shadow-ball    torment        
+will-o-wisp    memento        facade         taunt          secret-power   shock-wave     
+spite          grudge         gyro-ball      natural-gift   payback        assurance      
+dark-pulse     captivate      uproar         stockpile      spit-up        swallow        
+venoshock      round          clear-smog     incinerate     toxic-spikes   belch          
+confide        infestation    venom-drench   headbutt       sludge-wave    corrosive-gas  
+
+
+Equipo B
+Pokemon mas rapido: Ninetales
+Pokemon mas especialmente defensivo: Blastoise
+Pokemon mas especialmente ofensivo: Abra
+Lista de ataques del pokemon mas lento: Muk
+pound          body-slam      disable        hyper-beam     mega-drain     thunderbolt    thunder        
+toxic          rage           mimic          screech        double-team    harden         
+minimize       bide           self-destruct  sludge         fire-blast     poison-gas     
+acid-armor     explosion      rest           substitute     fire-punch     ice-punch      
+thunder-punch  thief          snore          curse          protect        sludge-bomb    
+mud-slap       zap-cannon     giga-drain     endure         swagger        attract        
+sleep-talk     return         frustration    dynamic-punch  hidden-power   sunny-day      
+flamethrower   strength       dig            rain-dance     rock-smash     torment        
+memento        facade         focus-punch    taunt          brick-break    secret-power   
+rock-tomb      shock-wave     rock-slide     shadow-ball    natural-gift   payback        
+fling          poison-jab     dark-pulse     focus-blast    giga-impact    mud-bomb       
+gunk-shot      captivate      pain-split     block          venoshock      sludge-wave    
+round          incinerate     belch          confide        infestation    power-up-punch 
+venom-drench   headbutt       haze           helping-hand   moonblast      
+
+Ganador
+Equipo B
